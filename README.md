@@ -1,5 +1,6 @@
 # ecs-task-python-watcher
 Script that polls the log of a running ECSTask to determine if the Task has completed successfully  
+blog: https://nsakki55.hatenablog.com/entry/2022/06/15/233044
 
 ## usage
 EcsTaskWatcher keep polling for standard output of Cloud Watch logs until the ECS Task has completed.  
